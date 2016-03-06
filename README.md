@@ -1,0 +1,2 @@
+# CarParkSimulationSystem
+停车场仿真系统用java实现图形化界面，每个小车都是一个线程并行操作不受影响。
